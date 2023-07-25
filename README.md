@@ -1,3 +1,3 @@
 # QR-Code-component
 
-[Visit the site at] (https://anmolsingh173.github.io/QR-Code-component/)
+[Check out the QR Component here !](https://anmolsingh173.github.io/QR-Code-component/)
